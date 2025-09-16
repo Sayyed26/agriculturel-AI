@@ -1,0 +1,7 @@
+{
+  "name": "Agri-Tech AI Platform",
+  "description": "A unified ag-tech platform using AI and IoT for real-time farm monitoring, soil analysis, and automated suggestions to optimize crop yield and resource management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
